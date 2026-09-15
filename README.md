@@ -260,4 +260,4 @@ Stated plainly, because these shape how the output should be read:
 
 **Sakshi Roy** — B.Tech Computer Science & Engineering (AI), IGDTUW
 
-[GitHub](https://github.com/sakshiroy2026) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[GitHub](https://github.com/sakshiroy2026) · [LinkedIn](linkedin.com/in/sakshi-roy-57b644261)
